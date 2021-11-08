@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gym</string>
+    <string name="chose_what_you_want_to_play">Chose what you want to play</string>
+    <string name="ok">Ok</string>
+    <string name="back">back</string>
+    <array name="spinner">
+        <item>Leg</item>
+        <item>Chest</item>
+        <item>Back</item>
+        <item>Bi and Tri</item>
+    </array>
+</resources>
